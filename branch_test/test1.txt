@@ -1,3 +1,5 @@
 a
-it's written at test1 branch
+it's written at test1 branch 
+it's written at test1_sub branch
+it's written at test1_sub branch 
 it's written at test1 branch after pruning (test1_sub)
