@@ -1,1 +1,2 @@
 it's a new file at master branch
+it's written at master branch after pruning (test3)
